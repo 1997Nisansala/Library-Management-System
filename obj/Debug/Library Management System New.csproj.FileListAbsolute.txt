@@ -1,0 +1,38 @@
+F:\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\Library Management System New.exe.config
+F:\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\Library Management System New.exe
+F:\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\Library Management System New.pdb
+F:\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\MySql.Data.dll
+F:\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\MySql.Data.xml
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.csprojResolveAssemblyReference.cache
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Login.resources
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Properties.Resources.resources
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Signup.resources
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.csproj.GenerateResource.Cache
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.exe
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.pdb
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.frmHome.resources
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Managestud.resources
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Managebooks.resources
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.store.resources
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.IssueBooks.resources
+F:\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.ReturnBooks.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\Library Management System New.exe.config
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.exe
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.pdb
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\Library Management System New.exe
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\Library Management System New.pdb
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\MySql.Data.xml
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.csprojResolveAssemblyReference.cache
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.frmHome.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.IssueBooks.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Login.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Managebooks.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Managestud.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Properties.Resources.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.ReturnBooks.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.Signup.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library_Management_System_New.store.resources
+F:\CODING\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.csproj.GenerateResource.Cache
+D:\ESOFT LMS\Esoft Project New\Library Management System New\Library Management System New\bin\Debug\Library Management System New.exe.config
+D:\ESOFT LMS\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.exe
+D:\ESOFT LMS\Esoft Project New\Library Management System New\Library Management System New\obj\Debug\Library Management System New.pdb
